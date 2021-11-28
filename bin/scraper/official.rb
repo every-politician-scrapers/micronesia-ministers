@@ -7,17 +7,17 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      noko.css('.sppb-addon-title').text.tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.css('.sppb-addon-content *').map(&:text).map(&:tidy).reject(&:empty?).join(", ")
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.xpath('.//div[@class="sppb-column"][.//img]')
     end
   end
 end
