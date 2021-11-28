@@ -1,7 +1,7 @@
 {
     "jurisdiction": {
-      "name": "Federated States of Micronesia",
-      "id": "Q53709965"
+      "name": "the Federated States of Micronesia",
+      "id": "Q702"
     },
     "cabinet": {
       "id": "Q109778975",
@@ -9,8 +9,8 @@
       "parent": "Q109778935"
     },
     "source": {
-        "url":   "https://gov.fm/index.php/fsm-cabinet-members/8th-cabinet-members",
-        "title": "FSM National Government - 8th Cabinet Members",
+        "url":   "https://gov.fm/index.php/national-government/executive",
+        "title": "FSM National Government - Executive",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
