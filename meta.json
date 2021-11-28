@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Federated States of Micronesia",
+      "id": "Q53709965"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q109778975",
+      "start": "2019-05-11",
+      "parent": "Q109778935"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://gov.fm/index.php/fsm-cabinet-members/8th-cabinet-members",
+        "title": "FSM National Government - 8th Cabinet Members",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/micronesia-ministers"
 }
