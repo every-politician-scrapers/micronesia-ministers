@@ -191,49 +191,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "micronesiavicepresidents"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "micronesia-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Yosiwo P. George 8th Vice President Federated States of Micronesia - Office of the President",
-            "links": [
-              {
-                "text": "Yosiwo P. George 8th Vice President Federated States of Micronesia",
-                "type": "external",
-                "site": "https://web.archive.org/web/20160123143958/http://fsmpio.fm/vice_president.html"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

@@ -269,62 +269,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Wesley Simina"
-          ],
-          "template": "commons category-inline"
-        },
-        {
-          "template": "governors of chuuk"
-        },
-        {
-          "template": "micronesia-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Simina wins Chuuk governor's runoff",
-            "links": [
-              {
-                "text": "Simina wins Chuuk governor's runoff",
-                "type": "external",
-                "site": "http://www.fm/news/kp/2005/04_2.htm"
-              }
-            ]
-          },
-          {
-            "text": "Pacific Partnership 2008",
-            "links": [
-              {
-                "text": "Pacific Partnership 2008",
-                "type": "external",
-                "site": "http://www.cpf.navy.mil/subsite/pp08/photos.shtml"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }
