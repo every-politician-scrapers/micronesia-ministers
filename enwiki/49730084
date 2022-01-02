@@ -162,35 +162,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "FSM has new president, vice president, speaker",
-          "newspaper": "Marianas Variety",
-          "date": "May 12, 2015",
-          "url": "http://www.mvariety.com/regional-news/76751-fsm-has-new-president-vice-president-speaker",
-          "access-date": "March 11, 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.allgov.com/officials/george-yosiwo?officialid=28719",
-          "title": "AllGov - Officials",
-          "publisher": "AllGov.com",
-          "access-date": "March 11, 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.fsmgov.org/press/pr01131b.htm",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20101001123849/http://www.fsmgov.org/press/pr01131b.htm",
-          "archive-date": "1 October 2010",
-          "title": "Ambassador George Presents Credentials to President of Israel",
-          "website": "Government of the Federated States of Micronesia",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
