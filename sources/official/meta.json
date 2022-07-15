@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "the Federated States of Micronesia",
+      "id": "Q702"
+    },
+    "cabinet": {
+      "id": "Q109778975",
+      "start": "2019-05-11",
+      "parent": "Q109778935"
+    },
+    "source": {
+        "url":   "https://gov.fm/index.php/national-government/executive",
+        "title": "FSM National Government - Executive",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/micronesia-ministers"
+}
