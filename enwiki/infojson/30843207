@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Governor of Chuuk State"
+      ],
+      "stated_as": "Governor of Chuuk State"
+    },
+    "P580": "2005-07-01",
+    "P1365": {
+      "links": [
+        "Ansito Walter"
+      ],
+      "stated_as": "Ansito Walter"
+    },
+    "P582": "2011-07-27",
+    "P1366": {
+      "links": [
+        "Johnson Elimo"
+      ],
+      "stated_as": "Johnson Elimo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Congress of the Federated States of Micronesia"
+      ],
+      "stated_as": "Speaker of the Congress of the Federated States of Micronesia"
+    },
+    "P580": "2015-05-11",
+    "P1365": {
+      "links": [
+        "Dohsis Halbert"
+      ],
+      "stated_as": "Dohsis Halbert"
+    }
+  }
+]
